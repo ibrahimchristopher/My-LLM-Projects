@@ -4,6 +4,6 @@ the directory structure
 
 -My-LLM-Projects
   
-  -Project1.ipynb
+      -Project1.ipynb
   
-  -Project2.ipyb
+      -Project2.ipyb
