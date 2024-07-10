@@ -2,8 +2,10 @@ This is a dedcated repo to each project s carried out involvong Large Language M
 
 the directory structure
 
--My-LLM-Projects
+  -My-LLM-Projects
   
+      -README.md
+      
       -Project1.ipynb
   
       -Project2.ipyb
