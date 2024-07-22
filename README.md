@@ -1,4 +1,4 @@
-This is a dedcated repo to each project s carried out involvong Large Language Models
+This is a dedcated repo to each projects carried out involvong Large Language Models
 
 the directory structure
 
